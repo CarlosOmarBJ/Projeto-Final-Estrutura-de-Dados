@@ -1,7 +1,3 @@
-Vou atualizar o README para incluir todas as funcionalidades do projeto.
-
----
-
 # Projeto de Grafos em Java
 
 ## Visão Geral
@@ -49,14 +45,10 @@ Este projeto implementa um sistema de manipulação e visualização de grafos e
 
 ## Como Executar
 
-1. **Clone o Repositório**: 
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   ```
-2. **Abra o Projeto no IntelliJ IDEA**: 
+1. **Abra o Projeto no IntelliJ IDEA**: 
    - Abra o IntelliJ IDEA e selecione a opção "Open" para abrir o diretório do projeto.
    
-3. **Execute a Classe Principal**: 
+2. **Execute a Classe Principal**: 
    - Navegue até a classe `Main.java` e execute-a.
 
 ## Recursos Adicionais
@@ -64,7 +56,3 @@ Este projeto implementa um sistema de manipulação e visualização de grafos e
 - [Documentação do Java](https://docs.oracle.com/javase/8/docs/api/)
 - [Tutoriais de Java no Oracle](https://www.oracle.com/java/technologies/javase-tutorials.html)
 - [Referência da Biblioteca Swing](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
-
----
-
-Este README agora reflete todas as funcionalidades do projeto. Caso precise de mais alguma modificação, estou à disposição!
