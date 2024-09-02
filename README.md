@@ -8,27 +8,21 @@ Este projeto implementa um sistema de manipulação e visualização de grafos e
 
 1. **Verificação de Conectividade**: Determina se o grafo é conexo, ou seja, se existe um caminho entre qualquer par de vértices.
 
-2. **Caminho Mínimo (Dijkstra)**: Calcula o menor caminho entre dois vértices em um grafo ponderado.
+2. **Informar Grau de um Vértice**: Exibe o grau de um vértice específico, que é o número de arestas conectadas a ele.
 
-3. **Informar Grau de um Vértice**: Exibe o grau de um vértice específico, que é o número de arestas conectadas a ele.
+3. **Adicionar Vértice**: Permite a adição de novos vértices ao grafo.
 
-4. **Visualização da Árvore Geradora Mínima (Prim)**: Gera e exibe a árvore geradora mínima do grafo, utilizando o algoritmo de Prim. A visualização é renderizada como uma imagem gráfica.
+4. **Adicionar Aresta**: Permite a adição de novas arestas ao grafo, conectando dois vértices existentes.
 
-5. **Adicionar Vértice**: Permite a adição de novos vértices ao grafo.
+5. **Remover Vértice**: Remove um vértice específico do grafo, junto com todas as arestas conectadas a ele.
 
-6. **Adicionar Aresta**: Permite a adição de novas arestas ao grafo, conectando dois vértices existentes.
+6. **Remover Aresta**: Remove uma aresta específica do grafo, desconectando os vértices associados.
 
-7. **Remover Vértice**: Remove um vértice específico do grafo, junto com todas as arestas conectadas a ele.
+7. **Obter Vizinhança de um Vértice**: Exibe os vértices adjacentes (vizinhos) de um vértice específico.
 
-8. **Remover Aresta**: Remove uma aresta específica do grafo, desconectando os vértices associados.
-
-9. **Obter Vizinhança de um Vértice**: Exibe os vértices adjacentes (vizinhos) de um vértice específico.
-
-10. **Verificar Ciclos**: Determina se o grafo contém ciclos, ou seja, se há um caminho fechado dentro do grafo.
-
-11. **Listar Componentes Conexos**: Identifica e lista os diferentes componentes conexos do grafo.
-
-12. **Visualização do Grafo Completo**: Exibe a representação gráfica completa do grafo, incluindo todos os vértices e arestas.
+8. **Visualização do Grafo Completo**: Exibe a representação gráfica completa do grafo, incluindo todos os vértices e arestas.
+   
+9. **Visualização da Matrix de Adjacência**: Exibe a matrix de adjacência , onde mostra os vértices que estão ligados entre si. 
 
 ## Tecnologias Utilizadas
 
