@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto implementa um sistema de manipulação e visualização de grafos em Java, desenvolvido no IntelliJ IDEA. O foco principal é fornecer ferramentas para análise de grafos, incluindo a verificação de conectividade, cálculo de caminhos mínimos, determinação do grau de vértices, e visualização da árvore geradora mínima. A representação visual do grafo é gerada como uma imagem, oferecendo uma interface gráfica simples para o usuário.
+Este projeto implementa um sistema de manipulação e visualização de grafos em Java, desenvolvido no IntelliJ IDEA. O foco principal é fornecer ferramentas para análise de grafos, incluindo a verificação de conectividade. A representação visual do grafo é gerada como uma imagem, oferecendo uma interface gráfica simples para o usuário.
 
 ## Funcionalidades
 
