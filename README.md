@@ -18,8 +18,6 @@ Este projeto implementa um sistema de manipulação e visualização de grafos e
 
 6. **Remover Aresta**: Remove uma aresta específica do grafo, desconectando os vértices associados.
 
-7. **Obter Vizinhança de um Vértice**: Exibe os vértices adjacentes (vizinhos) de um vértice específico.
-
 8. **Visualização do Grafo Completo**: Exibe a representação gráfica completa do grafo, incluindo todos os vértices e arestas.
    
 9. **Visualização da Matrix de Adjacência**: Exibe a matrix de adjacência , onde mostra os vértices que estão ligados entre si. 
